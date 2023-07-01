@@ -1,18 +1,17 @@
-### Meu nome é Vitória Pio 🐣 ##
-
-## Essa aqui sou eu 😊 ##
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v.piio_)
-[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/r3d3vk6qajvgce81ba345i887?si=75f9eaddab4248e6)
+![image](https://github.com/VitoriaPio/VitoriaPio/assets/81269768/b1fe6f64-925c-4488-9c36-e2f3af5387af)
 
 
-## Aprendendo essas tecnologias: ##
+  ***Sou estudante do IFCE-Campus Crato, e optei por seguir o lado mais legal da programação: Front-End 😉***
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Coisinhas que gosto de fazer ###
+- Desing com temas Geek
+- Jogar uns Joguinhos indie
+- Escutar todo tipo de musica
+  
+### Brinco com essas Tecnologias ###
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
-![Pio GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapio&theme=synthwave&show_icons=true)
+### Fale comigo por aqui 
+<a href = "mailto:pio.vitoria156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a> -- <a href="https://instagram.com/a.piio_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
