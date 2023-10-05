@@ -4,7 +4,7 @@
   ***Sou estudante do IFCE-Campus Crato, e optei por seguir o lado mais legal da programação: Front-End 😉***
 
 ### Coisinhas que gosto de fazer ###
-- Desing com temas Geek
+- Design com temas Geek
 - Jogar uns Joguinhos indie
 - Escutar todo tipo de musica
   
