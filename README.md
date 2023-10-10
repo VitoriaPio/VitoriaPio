@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/VitoriaPio/VitoriaPio/assets/81269768/b1fe6f64-925c-4488-9c36-e2f3af5387af" alt="Minha Foto">
+  <img src="https://github.com/VitoriaPio/VitoriaPio/assets/81269768/083f3dae-579a-4713-8f98-972304a312d0" alt="Minha Foto">
 
-  <h4>Sou estudante do IFCE-Campus Crato, e optei por seguir o lado mais legal da programação: Front-End 😉</h4>
+  <h4>Sou estudante do IFCE
+-Campus Crato, e optei por seguir o lado mais legal da programação: Front-End 😉</h4>
 
   <h2>Coisinhas que gosto de fazer</h2>
 Fora dos estudos, aproveito meu tempo livre para jogar videogames, assistir a animes e filmes do universo geek, e também gosto muito de ler. Também dedico um tempo para me divertir com projetos de programação.
